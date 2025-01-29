@@ -1,4 +1,0 @@
-aiogram==2.9.2
-pyrogram
-TgCrypto
-python-telegram-bot
