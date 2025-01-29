@@ -1,4 +1,5 @@
 from aiogram import Bot, types, Dispatcher
+from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 from aiogram.dispatcher import FSMContext
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
