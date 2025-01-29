@@ -1,6 +1,4 @@
-from aiogram import Bot, types
-from aiogram.dispatcher import dispatcher
-from aiogram.utils import executor
+from aiogram import Bot, types, Dispatcher, executor
 from aiogram.dispatcher import FSMContext
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher.filters.state import State, StatesGroup
